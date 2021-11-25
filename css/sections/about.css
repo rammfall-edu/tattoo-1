@@ -1,0 +1,28 @@
+.about {
+    padding-top: 178px;
+    padding-bottom: 87px;
+}
+
+.about > div {
+    display: flex;
+    gap: 100px;
+}
+
+.about img {
+    width: 500px;
+}
+
+.about h2 {
+    margin-bottom: 23px;
+}
+
+.about p {
+    font-weight: 300;
+    font-size: 2rem;
+    line-height: 2;
+    margin-bottom: 40px;
+}
+
+.about p:last-of-type {
+    margin-bottom: 0;
+}
