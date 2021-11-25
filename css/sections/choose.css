@@ -1,0 +1,27 @@
+.choose {
+    padding-top: 87px;
+    padding-bottom: 35px;
+    border-bottom: 3px solid;
+}
+
+.choose h2 {
+    margin-bottom: 62px;
+}
+
+.choose ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 113px;
+}
+
+.choose h3 {
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.choose p {
+    font-weight: 300;
+    font-size: 1.8rem;
+    line-height: 1.39;
+}
