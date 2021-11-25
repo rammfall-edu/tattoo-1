@@ -53,3 +53,6 @@ html {
     font-size: 3rem;
     line-height: 1;
 }
+.accented-title--center {
+    text-align: center;
+}

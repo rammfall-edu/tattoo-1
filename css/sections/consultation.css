@@ -1,0 +1,66 @@
+.consultation {
+    padding-top: 52px;
+    padding-bottom: 36px;
+    background-image: url("../../images/hand.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.consultation-container {
+    width: 34%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.consultation h2 {
+    margin-bottom: 29px;
+}
+
+.consultation p:first-of-type {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.25;
+    margin-bottom: 32px;
+}
+
+form {
+    width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 24px;
+}
+
+input {
+    width: 270px;
+    border: none;
+    background-color: white;
+    padding: 10px 15px;
+    font-size: 1.6rem;
+    line-height: 1.25;
+    font-weight: 300;
+    font-family: inherit;
+}
+
+input::placeholder {
+    color: black;
+}
+
+form button {
+    width: 100px;
+    border: none;
+    background-color: #DA3414;
+    color: white;
+    font-size: 1.8rem;
+    line-height: 1.11;
+    padding: 12px 10px 10px;
+}
+
+.consultation p:last-of-type {
+    font-size: 1.6rem;
+    line-height: 1.25;
+    font-weight: 300;
+}
